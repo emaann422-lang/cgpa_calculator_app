@@ -1,16 +1,21 @@
 # cgpa_calculator
 
-A new Flutter project.
+This is a Flutter-based CGPA Calculator app that allows students to 
+enter their subject marks and calculate their CGPA easily.
 
-## Getting Started
+The app supports dynamic subject addition and ensures marks cannot exceed 100.
+## Features
+- Enter marks out of 100
+- Automatic CGPA calculation
+- Clean and simple UI
+- Error validation for marks above 100
 
-This project is a starting point for a Flutter application.
+## Technologies Used
 
-A few resources to get you started if this is your first Flutter project:
+- Flutter
+- Dart
+- Material UI
+- ## Author
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Eman Fatima
+Flutter Developer
